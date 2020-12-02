@@ -1,0 +1,18 @@
+body{
+  background-color: #EAF6F6;
+}
+.profile_pic{
+  border-radius: 50%;
+  height:200px;
+  width:200px;
+  margin:15px;
+}
+h3{
+  margin:15px;
+}
+thead{
+  font-weight: bold;
+}
+td{
+  padding:7px;
+}
